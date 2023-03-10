@@ -205,7 +205,7 @@ Our users translate this investment into a 10x return through salary gains in th
  
  
  <div class="container">
-    <div class="text" style="background-color:white" id="down" >
+    <div class="text" style="background-color:white;width:500px;height:500px" id="down" >
         <h1 ><span style="color: black">Book your interview </span>
         </h1>
        <span style="color: black"> -----</span>
@@ -217,7 +217,7 @@ Our users translate this investment into a 10x return through salary gains in th
 </div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<div class="text1" style="background-color:gray" id="down" >
+<div class="text1" style="background-color:gray;width:500px;height:500px" id="down" >
 <form>
   <label for="name" class="required">Name:</label><br>
   <input type="text" id="name" name="name" required><br>
