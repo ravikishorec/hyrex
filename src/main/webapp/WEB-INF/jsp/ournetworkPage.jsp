@@ -46,8 +46,19 @@ label.required::after {
   color: red;
 }
 
+.button3{
+background-color:Gold; 
+
+}
+
+
+.button3:hover{
+background-color: #303030;
+
+}
+
 </style>
-<body style="background-color:SlateGray">
+<body style="background-color:#33343F">
 
 
 
@@ -55,8 +66,9 @@ label.required::after {
 <br><br><br>
 
 <hr>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-
+&nbsp;&nbsp;
 
 <a href="/homePage"><button >Home</button></a>&nbsp;&nbsp;
 <a href="/mockinterviewPage"><button >Mock Interviews</button></a>&nbsp;&nbsp;
@@ -66,11 +78,12 @@ label.required::after {
 
 <br> <br><br>
 
+
 <div class="container1">
   <img src="https://static.wixstatic.com/media/40a337545bc843b98afcef9f3cf4b1cf.jpg/v1/fill/w_1960,h_672,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Networking.jpg"  style="width:100%;">
   
   <div class="centered">
-  <h1 style="background-color:SlateGray">Professionals' Network</h1>
+  <h1 style="background-color:#33343F; font-size: 50px;">Professionals' Network</h1>
   
   </div>
   </div>
@@ -134,28 +147,53 @@ if you believe you are a strong name in your industry, we encourage you to provi
 Our team will assess your profile and reach out to you if we believe you would be a good fit for our network
 
 </p>
+<br><br>
 <form>
+<table>
+<tr>
+<td>
 
-<label style="color:white;" class="required">Name:  </label> <br>
-<input type="text"  required> <br>
+<label style="color:white;" class="required">Name:  </label> <br><br>
+<input type="text" style=" width: 300px;height:50px; color:white;background-color:#33343F;border-color: white;" required> <br> <br> <br><br>
+</td>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<label style="color:white;" size="50" class="required">Message:  </label> <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input type="text" style=" width: 500px;height:80px;color:white;background-color:#33343F;border-color: white;" required><br><br><br><br>
+</td>
+</tr>
+<tr>
+<td>
+<label style="color:white;" class="required">LinkedIn profie:</label><br><br>
+<input type="text" style=" width: 300px;height:50px;color:white;background-color:#33343F;border-color: white;" required><br><br><br><br>
+</td>
+</tr>
+<tr>
+<td>
+<label style="color:white;" class="required">Email    :</label><br><br>
+<input type="text" style=" width: 300px;height:50px;color:white;background-color:#33343F;border-color: white;" required><br><br><br><br>
 
-<label style="color:white;" class="required">LinkedIn profie:</label><br>
-<input type="text" required><br>
+</td>
+</tr>
 
-<label style="color:white;" class="required">Email    :</label><br>
-<input type="text" required><br>
+<tr>
+<td>
 
-<label style="color:white;" size="50" class="required">Message:  </label> <br>
-<input type="text" required><br>
-
-<button style="background-color:Gold"  onclick="myFunction()" >Send</button>
+</td>
+<td style=" text-align:right;">
+<button class="button3" onclick="myFunction()" >
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Send&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></button>
+</td>
+</tr>
+</tr>
 
 <script>
 function myFunction() {
   alert("Thanks for the Message!");
 }
 </script>
-
+</table>
  
 </form>
  

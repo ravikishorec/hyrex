@@ -43,12 +43,39 @@ img {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+.button1 {
+  background-color: #303030;
+  border-color: orange;
+  color: white;
+  padding: 2px 50px;
+  text-align: center;
+  text-decoration: none;
+ 
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+}
+.button1:hover{
+background-color: #303030;
+  border-color: orange;
+  color: white;
+  padding: 2px 50px;
+  text-align: center;
+  text-decoration: none;
+ 
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
 
+
+}
 
   </style>
 
 
-<body style="background-color:gray">
+<body style="background-color:#33343F">
 
 
 
@@ -56,9 +83,13 @@ img {
 <br><br><br>
 
 <hr>
-<a href="/homePage"><button >Home</button></a>&nbsp;&nbsp;
+
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;<a href="/homePage"><button>Home</button></a>&nbsp;&nbsp;
 <a href="/mockinterviewPage"><button>Mock Interviews</button></a>&nbsp;&nbsp;
-<a href="/ournetworkPage"><button >Our Network</button></a>
+<a href="/ournetworkPage"><button>Our Network</button></a>
+
 <hr>
 
 
@@ -74,10 +105,10 @@ img {
 
  <h1 style="color:white;">WELCOME TO HYREX </h1><br> 
 <h3 style="color:white;">Your dream job is not a dream anymore!</h3><br><br>
-<h5 style="color:white;">At Hyrex, we believe that targeted personalized conversations and feedback from experienced professionals is the key to success in landing your dream job</h5>
+<h4 style="color:white;">At Hyrex, we believe that targeted personalized conversations and feedback from experienced professionals is the key to success in landing your dream job</h4>
 <br><br>
-<h2 style="color:white;">THE FUTURE OF RECRUITMENT IS HERE</h2>
-<a href="/mockinterviewPage"><button style="background-color:white" style="color:white;"><h3>Book my interview </h3></button></a><br><br>
+<h2 style="color:white;">THE FUTURE OF RECRUITMENT IS HERE</h2><br>
+<a href="/mockinterviewPage"><button class="button1"><h2>Book my interview <span style="color: orange"> &nbsp;&nbsp;> </span>  </h2></button></a><br><br>
 
 </div>
 </div>
@@ -92,6 +123,7 @@ img {
         <img src="https://static.wixstatic.com/media/b08fc97db8934f8196371bbbeda5c445.jpg/v1/fill/w_1440,h_1354,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b08fc97db8934f8196371bbbeda5c445.jpg">
       </div>
       <div class="text" style="background-color:gray">
+      <br><br><br><br>
         <h1 style="color:DarkGoldenRod;">One-on-one interview with an industry professional</h1>
 <h4>Our personalized coaching isn't with a routine coach - it's with a  former</h4> <h4 style="color:red;">professional who has worked 
 in your dream role or dream team.</h4> <h4>You'll get the opportunity to practice with someone who has first-hand experience interviewing and <br>
@@ -100,7 +132,7 @@ hiring candidates like you. With our realistic, 40-minute mock interview, you'll
 
 We use our in-house leading AI technology to find you an interviewer who has previously worked at your dream role, or in a similar role<br>
  from a pool of 10 million+ professionals - all our interviewers are highly vetted and matched to be a perfect mentor for your career goals
-
+<br><br><br><br><br><br><br>
 </h4>
       </div>
     </div>
@@ -137,7 +169,7 @@ AI-driven professional matching
       </div>     
       <hr>
       
-  <div class="text" style="background-color:white">
+  <div class="text" style="background-color:white;height:750px;"><br> <br><br>
         <h1 >Our interviewers</h1>
 <h4 >Our interviewers are hand-selected for their extensive experience <br>
  and accomplishments in their industries. They undergo a rigorous vetting process <br>
@@ -149,8 +181,8 @@ AI-driven professional matching
 </h5>
  </div>
  
- <div class="image">
-        <img src="https://static.wixstatic.com/media/79cf2a0e60c045ceb1a03c3e669c69a7.jpg/v1/fill/w_745,h_1080,al_c,q_85,enc_auto/79cf2a0e60c045ceb1a03c3e669c69a7.jpg">
+ <div class="image" >
+        <img src="https://static.wixstatic.com/media/79cf2a0e60c045ceb1a03c3e669c69a7.jpg/v1/fill/w_745,h_1080,al_c,q_85,enc_auto/79cf2a0e60c045ceb1a03c3e669c69a7.jpg" >
       </div>  
       </div> 
   <br>    
@@ -230,7 +262,7 @@ AI-driven professional matching
  <br> <br> <br> 
  <hr>
  
- <center    style="background-color:gray" >
+ <center >
  <h6 style="color:white;">info@hyrex.app 
  <br>
  <br>

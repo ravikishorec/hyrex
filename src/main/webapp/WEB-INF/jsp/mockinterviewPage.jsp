@@ -62,13 +62,45 @@ html {
   color: red;
 }
 
+.button1 {
+  background-color: #303030;
+  border-color: orange;
+  color: white;
+  padding: 2px 50px;
+  text-align: center;
+  text-decoration: none;
+ 
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 50px;
+}
+
+.button1:hover{
+background-color: #303030;
+  border-color: orange;
+  color: white;
+  padding: 2px 50px;
+  text-align: center;
+  text-decoration: none;
+ 
+  display: inline-block;
+  margin: 4px 2px;
+  cursor: pointer;
+  border-radius: 20px;
+
+
+}
+
+
+
 
 
 </style>
 
 
 
-<body style="background-color:gray">
+<body style="background-color:#33343F">
 
 
 
@@ -76,18 +108,21 @@ html {
 <br><br><br>
 
 <hr>
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+&nbsp;&nbsp;
 <a href="/homePage"><button >Home</button></a>&nbsp;&nbsp;
 <a href="/mockinterviewPage"><button >Mock Interviews</button></a>&nbsp;&nbsp;
 <a href="/ournetworkPage"><button >Our Network</button></a>
 <hr>
 
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br>
+ <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br><br> <br> <br><br> <br> <br><br> <br> 
 
 
-<div class="container1">
-  <img src="https://static.wixstatic.com/media/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg/v1/fill/w_2880,h_892,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg"  style="width:100%; height:100%; top: 50px;">
+<div class="container1" >
+  <img src="https://static.wixstatic.com/media/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg/v1/fill/w_2880,h_892,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/11062b_952485dce28e4eac9e9f09d63fdc9ada~mv2.jpg"  >
   
   <div class="centered">
 
@@ -95,23 +130,23 @@ html {
 
 
 
-<center style="background-color:gray">
- <h1 style="color:white;" >Master your interview with personalized coaching from industry insiders </h1><br> 
+<center style="background-color:#33343F">
+ <h1 style="color:white;" >Master your interview with personalized<br> coaching from industry insiders </h1><br> 
 
 
 
 <a href="#down">
-<button style="background-color:white" style="color:white;">
-<h3>Book my interview </h3></button></a><br><br>
+<button class="button1">
+<h2>Book my interview <span style="color: orange">&nbsp;&nbsp; > </span> </h2></button></a><br><br>
 
 <br><br><br><br><br><br><br><br><br><br><br><br>
 <hr>
 
 <div class="container">
-      <div class="image">
+      <div class="image" >
         <img src="https://static.wixstatic.com/media/1b5ef12c44a3467f94a3aed663154a07.jpg/v1/fill/w_756,h_566,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Coworking%20Space.jpg">
       </div>
-      <div class="text" style="background-color:gray">
+      <div class="text" style="background-color:#33343F">
         <h1 style="color:white;">01
 
 Tell us about your dream role and company</h1>
@@ -157,7 +192,7 @@ You'll have the opportunity to practice your interview skills with a former prof
       <div class="image">
         <img src="https://static.wixstatic.com/media/nsplsh_4d4950ae1f2a45adb77293846e1770e7~mv2.jpg/v1/fill/w_756,h_566,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Image%20by%20Redd%20F.jpg">
       </div>
-      <div class="text" style="background-color:gray">
+      <div class="text" style="background-color:#33343F">
         <h1 style="color:white;">03
 
 Get detailed feedback and analysis</h1>
@@ -195,17 +230,16 @@ Our users translate this investment into a 10x return through salary gains in th
  
  <br> <br> <br>
  </center> 
- </div></div>
- <br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> 
- <br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br>  
- <br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br>    
+ 
+  
  
  
  <hr>
  
  
+ 
  <div class="container">
-    <div class="text" style="background-color:white;width:500px;height:500px" id="down" >
+    <div class="text" style="background-color:white;width:500px;height:500px" id="down" ><br> <br><br><br>
         <h1 ><span style="color: black">Book your interview </span>
         </h1>
        <span style="color: black"> -----</span>
@@ -213,62 +247,103 @@ Our users translate this investment into a 10x return through salary gains in th
          us today to learn more about our personalized <br>
          interview  packages and take the first step<br>
           towards your next career move!</h4>
+          </div>
 
-</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<div class="text1" style="background-color:gray;width:500px;height:500px" id="down" >
+<div class="text1" style="background-color:Slategray;width:500px;height:500px" id="down" >
 <form>
-  <label for="name" class="required">Name:</label><br>
-  <input type="text" id="name" name="name" required><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<table>
+<tr>
+<td>
+  <label for="name" class="required" >Name:</label><br>
+  <input type="text" id="name" name="name" required><br><br>
+</td>
+<td>
   
   <label for="targetcompany" class="required">Target Company:</label><br>
-  <input type="text" id="targetcompany" name="targetcompany" required><br>
-  
+  <input type="text" id="targetcompany" name="targetcompany" required><br><br>
+  </td>
+  </tr>
+  <tr>
+  <td>
   <label for="DOB" class="required"> Date of Birth:</label><br>
-  <input type="date" id="DOB" name="DOB" required><br>
-  
+  <input type="date" id="DOB" name="DOB" required><br><br>
+  </td>
+  <td>
   <label for="email" class="required">Email Address:</label><br>
-  <input type="text" id="email" name="email" required><br>
-  
+  <input type="text" id="email" name="email" required><br><br>
+  </td>
+  </tr>
+  <tr>
+  <td>
   <label for="Mobile" class="required">Phone No:</label><br>
-  <input type="text" id="Mobile" name="Mobile" required><br>
-  
+  <input type="text" id="Mobile" name="Mobile" required><br><br>
+  </td>
+  <td>
   <label for="Position" class="required">Target Position:</label><br>
   <select name="Position" id="Position">
   <option >Choice 1</option>
   <option >Choice 2</option>
   <option >Choice 3</option>
-</select><br>
+</select><br><br>
+</td>
+</tr>
+<tr>
+<td>
 
   <label for="PDI" class="required">Prefered Date of Interview:</label><br>
-  <input type="date" id="PDI" name="PDI" required><br>
-  
+  <input type="date" id="PDI" name="PDI" required><br><br>
+  </td>
+  <td>
   <label for="resume">Link to Your Resume:</label><br>
-  <input type="text" id="resume" name="resume"><br>
-  
-   <label for="resume">Upload Your Resume:</label><br>
-  <input type="file" id="resume" name="resume"><br>
-  
-  <button style="background-color:Gold"  onclick="myFunction()" >Submit!</button>
+  <input type="text" id="resume" name="resume"><br><br>
+  </td>
+  </tr>
+  <tr>
+  <td>
+   <label for="resume" >Upload Your Resume:</label><br>
+  <input type="file" id="resume" name="resume"><br><br><br>
+  </td>
+  </tr>
+  <tr>
+  <td style="background-color:Gold ; text-align:right ; color:black"  onclick="myFunction()" > Submit!
+  <br><br>
+  </td>
+  <td style="background-color:Gold ; text-align:center" onclick="myFunction()" >
+  <br><br>
+  </td>
+  </tr>
 
 <script>
 function myFunction() {
   alert("Thanks for the Submit!");
 }
 </script>
+</table>
+
+
 </form>
 
 </div>
 
+</div>
  
 
 </div>
 
 
 
+</div>
 
-<hr>
+
+<br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br><br> <br> <br><br> <br> <br><br> <br> 
+<br><br> <br> <br><br> <br> <br><br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br>
+<br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br>
  
  <center style="color:white;">info@hyrex.app 
  <br>
