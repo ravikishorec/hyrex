@@ -239,7 +239,7 @@ Our users translate this investment into a 10x return through salary gains in th
  
  
  <div class="container">
-    <div class="text" style="background-color:white;width:500px;height:500px" id="down" ><br> <br><br><br>
+    <div class="text" style="background-color:white;width:500px;height:500px" id="down" >
         <h1 ><span style="color: black">Book your interview </span>
         </h1>
        <span style="color: black"> -----</span>
@@ -252,7 +252,7 @@ Our users translate this investment into a 10x return through salary gains in th
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<div class="text1" style="background-color:Slategray;width:500px;height:500px" id="down" >
+<div class="text1" style="background-color:gray;width:500px;height:500px" id="down" >
 <form>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
