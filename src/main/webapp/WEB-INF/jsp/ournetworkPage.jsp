@@ -64,8 +64,9 @@ background-color: #303030;
 
 
 <br><br><br>
+<div style="background-color:#4C4C5D" >
+<br>
 
-<hr>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 &nbsp;&nbsp;
@@ -73,30 +74,24 @@ background-color: #303030;
 <a href="/homePage"><button >Home</button></a>&nbsp;&nbsp;
 <a href="/mockinterviewPage"><button >Mock Interviews</button></a>&nbsp;&nbsp;
 <a href="/ournetworkPage"><button >Our Network</button></a>
-<hr>
 
-
-<br> <br><br>
-
+<br> <br>
+</div>
+<br><br>
 
 <div class="container1">
-  <img src="https://static.wixstatic.com/media/40a337545bc843b98afcef9f3cf4b1cf.jpg/v1/fill/w_1960,h_672,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Networking.jpg"  style="width:100%;">
+  <img src="https://static.wixstatic.com/media/40a337545bc843b98afcef9f3cf4b1cf.jpg/v1/fill/w_1960,h_672,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Networking.jpg"  style="max-width: 70%;max-height:70%;">
   
   <div class="centered">
-  <h1 style="background-color:#33343F; font-size: 50px;">Professionals' Network</h1>
+  <h1 style="background-color:#33343F; font-size: 70px;">Professionals' Network</h1>
   
   </div>
   </div>
-
-
-
-
 
 
 <center>
 
 
-<br><br>
 <div class="container">
     <div class="text1">
         <h1 style="background-color:white"><br><br><br><br>Our Interviewers: The Who's Who of their industry<br><br><br><br><br><br><br>
@@ -105,15 +100,16 @@ background-color: #303030;
 </div>
 
 <div class="text2">
+<br><br>
         <h5 style="color:white;">Are you a seasoned professional with a wealth of experience and expertise in your field?<br>
          Do you want to share your knowledge and help the next generation of top talent succeed in their careers? Then consider <br>
          becoming an interviewer with us.</h5>
 
 ​
 
-<h5 style="color:Gold;">An avid interviewer earns ~$2000 per month with us,<br>
+<span style="color:Gold;">An avid interviewer earns ~$2000 per month with us,<br>
  by putting in 10 hours of work over lunch breaks / weekends and expanding their network. We also connect our interviewers<br>
-  with recruiters, who view membership of our network as a parameter for quality of professionals.</h5>
+  with recruiters, who view membership of our network as a parameter for quality of professionals.</span></h5>
 
 <h5 style="color:white;">Our interviewers are hand-selected for their extensive experience and accomplishments in their industries. <br>
 They undergo a rigorous vetting process to ensure they possess the skills and expertise needed to provide <br>
@@ -183,7 +179,7 @@ Our team will assess your profile and reach out to you if we believe you would b
 </td>
 <td style=" text-align:right;">
 <button class="button3" onclick="myFunction()" >
-<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Send&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></button>
+<h4>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Send&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</h4></button>
 </td>
 </tr>
 </tr>

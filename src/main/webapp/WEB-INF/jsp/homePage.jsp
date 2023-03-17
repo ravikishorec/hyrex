@@ -82,7 +82,8 @@ background-color: #303030;
 
 <br><br><br>
 
-<hr>
+<div style="background-color:#4C4C5D" >
+<br>
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -90,10 +91,8 @@ background-color: #303030;
 <a href="/mockinterviewPage"><button>Mock Interviews</button></a>&nbsp;&nbsp;
 <a href="/ournetworkPage"><button>Our Network</button></a>
 
-<hr>
-
-
-<br> <br><br>
+<br> <br>
+</div>
 
 
 <div class="container1">
@@ -108,7 +107,7 @@ background-color: #303030;
 <h4 style="color:white;">At Hyrex, we believe that targeted personalized conversations and feedback from experienced professionals is the key to success in landing your dream job</h4>
 <br><br>
 <h2 style="color:white;">THE FUTURE OF RECRUITMENT IS HERE</h2><br>
-<a href="/mockinterviewPage"><button class="button1"><h2>Book my interview <span style="color: orange"> &nbsp;&nbsp;> </span>  </h2></button></a><br><br>
+<a href="/mockinterviewPage"><button class="button1"><h4>Book my interview <span style="color: orange"> &nbsp;&nbsp;> </span>  </h4></button></a><br><br>
 
 </div>
 </div>
@@ -185,10 +184,12 @@ AI-driven professional matching
         <img src="https://static.wixstatic.com/media/79cf2a0e60c045ceb1a03c3e669c69a7.jpg/v1/fill/w_745,h_1080,al_c,q_85,enc_auto/79cf2a0e60c045ceb1a03c3e669c69a7.jpg" >
       </div>  
       </div> 
+      
+      <div>
   <br>    
   
  
- <h1 style="color:white;">OUR INTERVIEWERS WORK AT  </h1> 
+ <h1 style="color:red;">O&nbsp;U&nbsp;R&nbsp;&nbsp; &nbsp;&nbsp; I  &nbsp;  N &nbsp;   T&nbsp;  E &nbsp; R &nbsp; V &nbsp; I  &nbsp;E &nbsp; W &nbsp; E&nbsp;  R &nbsp; S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W &nbsp; O &nbsp; R &nbsp; K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A &nbsp; T  </h1> 
  <div class="container">
  <div class="image">
  <img src="https://static.wixstatic.com/media/754ffc_39cfd03f7d7441499c6d13ed86943ec3~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85,enc_auto/754ffc_39cfd03f7d7441499c6d13ed86943ec3~mv2.jpg">
@@ -260,15 +261,15 @@ AI-driven professional matching
  
  </center> 
  <br> <br> <br> 
+ </div>
  <hr>
  
- <center >
- <h6 style="color:white;">info@hyrex.app 
+ <center style="color:white;">info@hyrex.app 
  <br>
  <br>
  
  ©2023 @copyrights RK Solutions</center>
 
-</h6>
+
 </body>
 </html>
