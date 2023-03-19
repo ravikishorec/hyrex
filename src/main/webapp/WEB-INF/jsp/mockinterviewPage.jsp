@@ -81,6 +81,7 @@ background-color: #303030;
   border-color: orange;
   color: white;
   padding: 2px 50px;
+  font-size: 15px;
   text-align: center;
   text-decoration: none;
  
