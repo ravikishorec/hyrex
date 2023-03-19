@@ -61,6 +61,7 @@ background-color: #303030;
   border-color: orange;
   color: white;
   padding: 2px 50px;
+  font-size: 20px;
   text-align: center;
   text-decoration: none;
  
@@ -118,46 +119,59 @@ background-color: #303030;
 
 
 <div class="container">
+<table style="width:100%;height:100%">
+	<tr>
+	<td style="width:50%;height:80%">
+
       <div class="image">
-        <img src="https://static.wixstatic.com/media/b08fc97db8934f8196371bbbeda5c445.jpg/v1/fill/w_1440,h_1354,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b08fc97db8934f8196371bbbeda5c445.jpg">
+        <img src="https://static.wixstatic.com/media/b08fc97db8934f8196371bbbeda5c445.jpg/v1/fill/w_1440,h_1354,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b08fc97db8934f8196371bbbeda5c445.jpg" >
       </div>
-      <div class="text" style="background-color:gray">
+      </td>
+      <td style="width:50%;height:50%">
+      <div class="text" style="background-color:gray;" >
       <br><br><br><br>
-        <h1 style="color:DarkGoldenRod;">One-on-one interview with an industry professional</h1>
-<h4>Our personalized coaching isn't with a routine coach - it's with a  former</h4> <h4 style="color:red;">professional who has worked 
-in your dream role or dream team.</h4> <h4>You'll get the opportunity to practice with someone who has first-hand experience interviewing and <br>
-hiring candidates like you. With our realistic, 40-minute mock interview, you'll get valuable feedback and insights that will help you<br>
+        <h1 style="color:DarkGoldenRod;text-align:left;">One-on-one interview with an industry professional</h1>
+<h4 style="text-align:left">Our personalized coaching isn't with a routine coach - it's with a  former <span style="color:red;">professional who has worked 
+in your dream role or dream team.</span> You'll get the opportunity to practice with someone who has first-hand experience interviewing and 
+hiring candidates like you. With our realistic, 40-minute mock interview, you'll get valuable feedback and insights that will help you
  improve your performance in real interviews.<br> <br>
 
-We use our in-house leading AI technology to find you an interviewer who has previously worked at your dream role, or in a similar role<br>
+We use our in-house leading AI technology to find you an interviewer who has previously worked at your dream role, or in a similar role
  from a pool of 10 million+ professionals - all our interviewers are highly vetted and matched to be a perfect mentor for your career goals
-<br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br>
 </h4>
       </div>
+      </td></tr></table>
     </div>
     
     
     
     
 <div class="container">
+<table style="width:100%;height:100%">
+	<tr>
+	<td style="width:50%;height:80%">
     <div class="text1">
-        <h1 style="color:white;">Computer Programming 
+        <h1 style="color:white;text-align:left">Computer Programming 
 AI-driven professional matching</h1>
-<h4 style="color:white;">
+<h4 style="color:white;text-align:left">
 Computer Programming 
 AI-driven professional matching
     
     
- We use our in-house leading AI technology to find you an interviewer who<br>
-  has previously worked at your dream role, or in a similar role <br>
- from a pool of 10 million+ professionals - all our interviewers are highly<br>
+ We use our in-house leading AI technology to find you an interviewer who
+  has previously worked at your dream role, or in a similar role 
+ from a pool of 10 million+ professionals - all our interviewers are highly
   vetted and matched to be a perfect mentor for your career goals 
 </h4>
 </div>
+</td>
+<td style="width:50%;height:100%">
 
 <div class="image">
-        <img src="https://static.wixstatic.com/media/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_1816,h_1038,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg">
+        <img src="https://static.wixstatic.com/media/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_1816,h_1038,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg" style="max-width: 100%;max-height:150%;">
       </div>
+      </td></tr></table>
       </div>
       
       
@@ -169,13 +183,13 @@ AI-driven professional matching
       <hr>
       
   <div class="text" style="background-color:white;height:750px;"><br> <br><br>
-        <h1 >Our interviewers</h1>
-<h4 >Our interviewers are hand-selected for their extensive experience <br>
- and accomplishments in their industries. They undergo a rigorous vetting process <br>
- to ensure they possess the skills and expertise needed to provide our <br>
+        <h1 style="text-align:left">Our interviewers</h1>
+<h4 style="text-align:left" >Our interviewers are hand-selected for their extensive experience 
+ and accomplishments in their industries. They undergo a rigorous vetting process 
+ to ensure they possess the skills and expertise needed to provide our 
  clients with the highest quality coaching and feedback.<br> <br></h4>
 
-<h5 style="color:Red;">Our interviewers network is invite / referral only - we invite professionals only with a certain<br>
+<h5 style="color:Red;text-align:left">Our interviewers network is invite / referral only - we invite professionals only with a certain
  amount and quality of experience to ensure high quality of engagement
 </h5>
  </div>
