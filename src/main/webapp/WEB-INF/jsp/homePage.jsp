@@ -50,6 +50,7 @@ img {
   padding: 2px 50px;
   text-align: center;
   text-decoration: none;
+  
  
   display: inline-block;
   margin: 4px 2px;
@@ -88,7 +89,7 @@ background-color: #303030;
 
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-&nbsp;&nbsp;<a href="/homePage"><button>Home</button></a>&nbsp;&nbsp;
+&nbsp;&nbsp;<a href="/homePage" ><button>Home</button></a>&nbsp;&nbsp;
 <a href="/mockinterviewPage"><button>Mock Interviews</button></a>&nbsp;&nbsp;
 <a href="/ournetworkPage"><button>Our Network</button></a>
 
