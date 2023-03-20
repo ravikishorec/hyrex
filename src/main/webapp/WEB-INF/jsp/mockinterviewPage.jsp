@@ -93,7 +93,19 @@ background-color: #303030;
 
 }
 
+.button3{
+background-color:Gold; 
 
+}
+
+
+.button3:hover{
+background-color: #303030;
+color: Gold;
+border-color:Gold;
+
+
+}
 
 
 
@@ -369,9 +381,10 @@ Our users translate this investment into a 10x return through salary gains in th
   </td>
   </tr>
   <tr>
-  <td style="background-color:Gold ; text-align:center ; color:black" colspan="2" onclick="myFunction()" > <br>Submit!<br><br>
-  
-  </td>
+   <td style=" text-align:right;" colspan="2">
+<button style="width:100%" class="button3" onclick="myFunction()" >
+<h4>submit!</h4></button>
+</td>
  
   </tr>
 

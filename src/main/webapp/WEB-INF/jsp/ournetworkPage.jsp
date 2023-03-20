@@ -54,6 +54,8 @@ background-color:Gold;
 
 .button3:hover{
 background-color: #303030;
+color: Gold;
+border-color:Gold;
 
 }
 
@@ -159,27 +161,27 @@ will assess your profile and reach out to you if we believe you would be a good 
 <tr>
 <td>
 
-<label style="color:white;" class="required">Name:  </label> <br><br>
-<input type="text" style=" width: 300px;height:50px; color:white;background-color:#33343F;border-color: white;" required> <br> <br> <br><br><br><br>
+<label style="color:white;" class="required">Name:  </label> <br>
+<input type="text" style=" width: 300px;height:30px; color:white;background-color:#33343F;border-color: white;" required> <br><br>
 </td>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<td>
+<td rowspan="3">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<label style="color:white;" size="50" class="required">Message:  </label> <br><br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<textarea rows="10" cols="50" name="Message" spellcheck="true" style="color:white;background-color:#33343F;border-color: white;">
+<label style="color:white;" size="50" class="required">Message:  </label> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<textarea rows="13" cols="35" name="Message" spellcheck="true" style="color:white;background-color:#33343F;border-color: white;">
 </textarea>
 </td>
 </tr>
 <tr>
 <td>
-<label style="color:white;" class="required">LinkedIn profie:</label><br><br>
-<input type="text" style=" width: 300px;height:50px;color:white;background-color:#33343F;border-color: white;" required><br><br>
+<label style="color:white;" class="required">LinkedIn profie:</label><br>
+<input type="text" style=" width: 300px;height:30px;color:white;background-color:#33343F;border-color: white;" required><br><br>
 </td>
 </tr>
 <tr>
 <td>
-<label style="color:white;" class="required">Email    :</label><br><br>
-<input type="text" style=" width: 300px;height:50px;color:white;background-color:#33343F;border-color: white;" required><br><br>
+<label style="color:white;" class="required">Email    :</label><br>
+<input type="text" style=" width: 300px;height:30px;color:white;background-color:#33343F;border-color: white;" required><br><br>
 
 </td>
 </tr>
