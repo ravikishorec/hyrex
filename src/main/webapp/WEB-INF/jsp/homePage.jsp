@@ -192,7 +192,7 @@ AI-driven professional matching
       </div>  
       </div> 
       
-      <div>
+      <div style="background-color:Silver;">
   <br> <br>  <br>     
   
  
@@ -204,11 +204,11 @@ AI-driven professional matching
   </div>  
   
   <div class="image">
-  <img src="https://static.wixstatic.com/media/754ffc_54c120097d614a9eb0e5bd8eb244bb55~mv2.webp" style="height:100px;width:600px;">    
+  <img src="https://static.wixstatic.com/media/754ffc_54c120097d614a9eb0e5bd8eb244bb55~mv2.webp" style="height:100px;width:600px;">   
   </div>  
   
   <div class="image">
-  <img src="https://static.wixstatic.com/media/754ffc_06d646ac72aa4439a4369e1799c8ca21~mv2.jpg/v1/fill/w_315,h_315,al_c,lg_1,q_80,enc_auto/754ffc_06d646ac72aa4439a4369e1799c8ca21~mv2.jpg">    
+  <img src="https://static.wixstatic.com/media/754ffc_06d646ac72aa4439a4369e1799c8ca21~mv2.jpg/v1/fill/w_315,h_315,al_c,lg_1,q_80,enc_auto/754ffc_06d646ac72aa4439a4369e1799c8ca21~mv2.jpg" style="height:100px;width:700px;">    
     </div>   
     
   <div class="image">
@@ -266,17 +266,19 @@ AI-driven professional matching
   </div>  
       
  </div>     
- 
+  <br>  <br>  <br>  <br> 
  </center> 
  <br> <br> <br> 
  </div>
- <hr>
+ </div>   
+ 
  
  <center style="color:white;">info@hyrex.app 
  <br>
- <br>
+ <br> <br> <br>
  
  ©2023 @copyrights RK Solutions</center>
+ 
 
 
 </body>

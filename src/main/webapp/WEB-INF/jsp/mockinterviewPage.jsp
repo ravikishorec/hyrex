@@ -414,7 +414,7 @@ function myFunction() {
 
  <center style="color:white;">info@hyrex.app 
  <br>
- <br>
+ <br> <br> <br>
  
  ©2023 @copyrights RK Solutions</center>
 
