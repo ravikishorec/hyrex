@@ -97,17 +97,17 @@ background-color: #303030;
 
 
 <div class="container1">
-  <img src="https://static.wixstatic.com/media/11062b_db8f5ddb085b41fda169efb854f9b69e~mv2.jpg/v1/fill/w_2880,h_1284,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/11062b_db8f5ddb085b41fda169efb854f9b69e~mv2.jpg"  style="width:100%;">
+  <img src="https://static.wixstatic.com/media/11062b_db8f5ddb085b41fda169efb854f9b69e~mv2.jpg/v1/fill/w_2880,h_1284,al_c,q_90,usm_0.66_1.00_0.01,enc_auto/11062b_db8f5ddb085b41fda169efb854f9b69e~mv2.jpg" >
   
   <div class="centered">
 
 
 
- <h1 style="color:white;">WELCOME TO HYREX </h1><br> 
-<h3 style="color:white;">Your dream job is not a dream anymore!</h3><br><br>
-<h4 style="color:white;">At Hyrex, we believe that targeted personalized conversations and feedback from experienced professionals is the key to success in landing your dream job</h4>
-<br><br>
-<h2 style="color:white;">THE FUTURE OF RECRUITMENT IS HERE</h2><br>
+ <h1 style="color:white;font-size: 60px;">WELCOME TO HYREX </h1><br> 
+<h2 style="color:white;">Your dream job is not a dream anymore!</h2><br>
+<h3 style="color:white;">At Hyrex, we believe that targeted personalized conversations and feedback from experienced professionals is the key to success in landing your dream job</h3>
+<br>
+<h2 style="color:white;font-size: 30px;">THE FUTURE OF RECRUITMENT IS HERE</h2><br>
 <a href="/mockinterviewPage"><button class="button1"><h4>Book my interview <span style="color: orange"> &nbsp;&nbsp;> </span>  </h4></button></a><br><br>
 
 </div>
@@ -119,39 +119,33 @@ background-color: #303030;
 
 
 <div class="container">
-<table style="width:100%;height:100%">
-	<tr>
-	<td style="width:50%;height:80%">
+
 
       <div class="image">
-        <img src="https://static.wixstatic.com/media/b08fc97db8934f8196371bbbeda5c445.jpg/v1/fill/w_1440,h_1354,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b08fc97db8934f8196371bbbeda5c445.jpg" >
+        <img src="https://static.wixstatic.com/media/b08fc97db8934f8196371bbbeda5c445.jpg/v1/fill/w_1440,h_1354,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/b08fc97db8934f8196371bbbeda5c445.jpg" style="height:650px;width:800px;">
       </div>
-      </td>
-      <td style="width:50%;height:50%">
-      <div class="text" style="background-color:gray;" >
-      <br><br><br><br>
-        <h1 style="color:DarkGoldenRod;text-align:left;">One-on-one interview with an industry professional</h1>
-<h4 style="text-align:left">Our personalized coaching isn't with a routine coach - it's with a  former <span style="color:red;">professional who has worked 
-in your dream role or dream team.</span> You'll get the opportunity to practice with someone who has first-hand experience interviewing and 
-hiring candidates like you. With our realistic, 40-minute mock interview, you'll get valuable feedback and insights that will help you
- improve your performance in real interviews.<br> <br>
+      
+      <div class="text" style="background-color:gray;height:650px;width:800px;" >
+      <br><br>
+        <h1 style="color:DarkGoldenRod;text-align:left;padding-left: 80px;font-size: 50px;">One-on-one interview with an industry professional</h1><br><br>
+<h4 style="text-align:left;padding-left: 80px;">Our personalized coaching isn't with a routine coach - it's with a  former <br><br><span style="color:red;">professional who has worked 
+in your dream role or dream team.</span><br><br>  You'll get the opportunity to practice with someone who has first-hand<br><br> experience interviewing and 
+hiring candidates like you. With our <br><br>realistic, 40-minute mock interview, you'll get valuable feedback and<br><br> insights that will help you
+ improve your performance in real interviews.
 
-We use our in-house leading AI technology to find you an interviewer who has previously worked at your dream role, or in a similar role
- from a pool of 10 million+ professionals - all our interviewers are highly vetted and matched to be a perfect mentor for your career goals
+
 <br><br><br><br><br><br><br><br><br>
 </h4>
       </div>
-      </td></tr></table>
+     
     </div>
     
     
     
     
 <div class="container">
-<table style="width:100%;height:100%">
-	<tr>
-	<td style="width:50%;height:80%">
-    <div class="text1">
+
+    <div class="text1" style="height:500px;width:500px;">
         <h1 style="color:white;text-align:left">Computer Programming 
 AI-driven professional matching</h1>
 <h4 style="color:white;text-align:left">
@@ -165,24 +159,23 @@ AI-driven professional matching
   vetted and matched to be a perfect mentor for your career goals 
 </h4>
 </div>
-</td>
-<td style="width:50%;height:100%">
+
 
 <div class="image">
-        <img src="https://static.wixstatic.com/media/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_1816,h_1038,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg" style="max-width: 100%;max-height:150%;">
+        <img src="https://static.wixstatic.com/media/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg/v1/fill/w_1816,h_1038,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_9456e610ba474c50b4ad5cd8f475d623~mv2_d_5760_3840_s_4_2.jpg" style="height:500px;width:1000px;">
       </div>
-      </td></tr></table>
+     
       </div>
       
       
       
  <div class="container">
       <div class="image">
-        <img src="https://static.wixstatic.com/media/11062b_5323252299a04f2a9c818aa15a74fe53~mv2.jpg/v1/fill/w_808,h_1168,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_5323252299a04f2a9c818aa15a74fe53~mv2.jpg">
+        <img src="https://static.wixstatic.com/media/11062b_5323252299a04f2a9c818aa15a74fe53~mv2.jpg/v1/fill/w_808,h_1168,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/11062b_5323252299a04f2a9c818aa15a74fe53~mv2.jpg" style="height:600px;width:550px;">
       </div>     
       <hr>
       
-  <div class="text" style="background-color:white;height:750px;"><br> <br><br>
+  <div class="text" style="background-color:white;height:600px;width:750px;"><br> <br><br>
         <h1 style="text-align:left">Our interviewers</h1>
 <h4 style="text-align:left" >Our interviewers are hand-selected for their extensive experience 
  and accomplishments in their industries. They undergo a rigorous vetting process 
@@ -195,22 +188,23 @@ AI-driven professional matching
  </div>
  
  <div class="image" >
-        <img src="https://static.wixstatic.com/media/79cf2a0e60c045ceb1a03c3e669c69a7.jpg/v1/fill/w_745,h_1080,al_c,q_85,enc_auto/79cf2a0e60c045ceb1a03c3e669c69a7.jpg" >
+        <img src="https://static.wixstatic.com/media/79cf2a0e60c045ceb1a03c3e669c69a7.jpg/v1/fill/w_745,h_1080,al_c,q_85,enc_auto/79cf2a0e60c045ceb1a03c3e669c69a7.jpg" style="height:600px;width:550px;">
       </div>  
       </div> 
       
       <div>
-  <br>    
+  <br> <br>  <br>     
   
  
  <h1 style="color:red;">O&nbsp;U&nbsp;R&nbsp;&nbsp; &nbsp;&nbsp; I  &nbsp;  N &nbsp;   T&nbsp;  E &nbsp; R &nbsp; V &nbsp; I  &nbsp;E &nbsp; W &nbsp; E&nbsp;  R &nbsp; S&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; W &nbsp; O &nbsp; R &nbsp; K&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A &nbsp; T  </h1> 
+ <br>  <br>  
  <div class="container">
  <div class="image">
  <img src="https://static.wixstatic.com/media/754ffc_39cfd03f7d7441499c6d13ed86943ec3~mv2.jpg/v1/fill/w_614,h_614,al_c,lg_1,q_85,enc_auto/754ffc_39cfd03f7d7441499c6d13ed86943ec3~mv2.jpg">
   </div>  
   
   <div class="image">
-  <img src="https://static.wixstatic.com/media/754ffc_54c120097d614a9eb0e5bd8eb244bb55~mv2.webp">    
+  <img src="https://static.wixstatic.com/media/754ffc_54c120097d614a9eb0e5bd8eb244bb55~mv2.webp" style="height:100px;width:600px;">    
   </div>  
   
   <div class="image">

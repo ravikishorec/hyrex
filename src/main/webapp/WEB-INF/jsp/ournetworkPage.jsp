@@ -80,7 +80,7 @@ background-color: #303030;
 <br><br>
 
 <div class="container1">
-  <img src="https://static.wixstatic.com/media/40a337545bc843b98afcef9f3cf4b1cf.jpg/v1/fill/w_1960,h_672,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Networking.jpg"  style="max-width: 70%;max-height:70%;">
+  <img src="https://static.wixstatic.com/media/40a337545bc843b98afcef9f3cf4b1cf.jpg/v1/fill/w_1960,h_672,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Networking.jpg"  style="max-width: 70%;max-height:100%;">
   
   <div class="centered">
   <h1 style="background-color:#33343F; font-size: 70px;">Professionals' Network</h1>

@@ -116,7 +116,9 @@ background-color: #303030;
 
 <a href="/homePage"><button >Home</button></a>&nbsp;&nbsp;
 <a href="/mockinterviewPage"><button >Mock Interviews</button></a>&nbsp;&nbsp;
-<a href="/ournetworkPage"><button>Our Network</button></a>
+<a href="/ournetworkPage"><button>Our Network</button></a>&nbsp;&nbsp;
+
+
 <br><br>
 </div>
 
@@ -130,9 +132,9 @@ background-color: #303030;
   <div class="centered">
   
 
-<br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br><br><br><br><br><br><br><br>
- <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br><br> <br> <br><br> <br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br><br><br><br><br><br><br><br><br> 
+ <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br> <br><br> <br><br> <br> <br><br> <br><br><br><br><br><br>  <br> <br>   
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>  <br> <br>  
 
 
 
@@ -189,7 +191,7 @@ who has experience working in a similar role or company.
         <h1 style="color:white;text-align:left">02
 		<br>
 Practice with a <span style="color: Gold">real </span> professional</h1>
-<h6 style="color:white;text-align:left">
+<h6 style="color:white;text-align:left;font-size: 20px;">
 You'll have the opportunity to practice your interview skills with a former professional
  in your target industry. Our professionals have interviewed and hired candidates in these
   companies, so they know what it takes to succeed. With a realistic, 40-minute mock interview, 
@@ -250,7 +252,7 @@ detailed feedback from your interviewer, and an AI-generated video feedback for 
 	<tr>
 	<td style="width:50%;height:50%">
     <div class="text1">
-        <h1 style="color:white;text-align:left">04
+        <h1 style="color:white;text-align:left;">04
 		<br>
 Take control of your job search with our affordable prices</h1>
 <h4 style="color:white;text-align:left">
@@ -276,12 +278,12 @@ Our users translate this investment into a 10x return through salary gains in th
  
 
  <hr>
- </div><br><br><br><br><br>
+ </div><br><br><br><br>
 
 </div>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>  <br>  <br>  
 
 
  
@@ -289,7 +291,7 @@ Our users translate this investment into a 10x return through salary gains in th
  <br><br><br>
  
  <div class="container">
-    <div class="text" style="background-color:white;width:500px;height:550px" id="down" >
+    <div class="text" style="background-color:white;width:500px;height:600px" id="down" >
    
     <br><br><br><br>
     <center>
@@ -307,7 +309,7 @@ Our users translate this investment into a 10x return through salary gains in th
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-<div class="text1" style="background-color:#33343F;width:700px;height:550px" id="down" >
+<div class="text1" style="background-color:#33343F;width:700px;height:600px" id="down" >
 <center>
 <form>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -367,20 +369,18 @@ Our users translate this investment into a 10x return through salary gains in th
   </td>
   </tr>
   <tr>
-  <td style="background-color:Gold ; text-align:right ; color:black"  onclick="myFunction()" > Submit!
-  <br><br>
+  <td style="background-color:Gold ; text-align:center ; color:black" colspan="2" onclick="myFunction()" > <br>Submit!<br><br>
+  
   </td>
-  <td style="background-color:Gold ; text-align:center" onclick="myFunction()" >
-  <br><br>
-  </td>
-  </tr>
  
+  </tr>
 
 <script>
 function myFunction() {
   alert("Thanks for the Submit!");
 }
 </script>
+
 </table>
 
 
